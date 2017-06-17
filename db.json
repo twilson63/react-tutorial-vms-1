@@ -1,0 +1,35 @@
+{
+  "videos": [
+    {
+      "name": "JavaScript 100",
+      "id": 1
+    },
+    {
+      "name": "JS Data Structures",
+      "id": 2
+    },
+    {
+      "name": "JS Conditionals",
+      "id": 3
+    },
+    {
+      "name": "JS Functions",
+      "id": 4
+    },
+    {
+      "link": "http://exerciss.how2js.com/maps",
+      "name": "JS Map Function",
+      "id": 5
+    },
+    {
+      "link": "https://tachyons.io",
+      "name": "Tachyons 101",
+      "id": 6
+    },
+    {
+      "link": "http://google.com",
+      "name": "React/Redux",
+      "id": 7
+    }
+  ]
+}
